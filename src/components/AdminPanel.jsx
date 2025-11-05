@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { Lock, UploadCloud } from 'lucide-react';
 
 // Simple client-side gate (visual only; not secure)
-const ADMIN_PASSWORD = 'fracto-admin';
+const ADMIN_PASSWORD = 'Bandung2025';
 
 export default function AdminPanel() {
   const [authed, setAuthed] = useState(false);

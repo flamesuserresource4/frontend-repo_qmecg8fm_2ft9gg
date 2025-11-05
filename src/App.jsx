@@ -100,7 +100,7 @@ export default function App() {
       </main>
 
       <footer className="mx-auto max-w-6xl px-4 py-8 text-slate-500 text-sm">
-        Dibuat untuk kebutuhan analisis material. Mode gelap dioptimalkan untuk citra SEM.
+        Prototipe FractoScan, Ken Ken Kusumah Ramadhan
       </footer>
     </div>
   );
